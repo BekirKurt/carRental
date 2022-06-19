@@ -27,4 +27,13 @@ Uygulamada başlıca;
 ![3Screenshot 2022-06-19 135236](https://user-images.githubusercontent.com/73036927/174478219-902686f1-b79c-4bba-bdfa-49b4e641add2.png)
 
 
+<h3>XAMPP üzerinden kurulum yapmak için</h3><hr />
+Yapmanız gerekenler sırasıyla;
+<ul>
+  <li>XAMPP indirip kurduktan sonra Apache ve MySQL'i başlatıyoruz.</li>
+  <li>Daha sonra tarayıcıda phpMyAdmin sayfasını açıyoruz.</li>
+  <li>phpMyAdmin sayfasında içe aktar seçeneğine tıklayıp github reposundaki sql uzantılı dosyayı seçiyoruz.</li>
+  <li>Daha sonra XAMPP dosya klasöründe htdocs klasörüne php adında yeni bir dosya oluşturuyoruz ve github reposundaki bütün dosyaları bu klasöre taşıyoruz</li>
+  <li>Son olarak tarayıcınızda bu dizine giderek anasayfaya ulaşabilirsiniz.</li>
 
+</ul>
