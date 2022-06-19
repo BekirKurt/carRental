@@ -3,11 +3,7 @@
    
    if (isset($_POST['username']) && isset($_POST['password']) && isset($_POST["email"])){ 
    
-    extract($_POST); 
-   
-    // sifre metni SHA256 ile şifreleniyor. 
-   
-    //$password = hash('sha256', $password); 
+    extract($_POST);  
 
     if($_POST["username"] === "" || $_POST["password"] === "" || $_POST["email"] === ""){
       $message = "<h1> Lütfen tüm alanları doldurunuz...</h1>";
