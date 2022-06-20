@@ -33,7 +33,7 @@ Yapmanız gerekenler sırasıyla;
   <li>XAMPP indirip kurduktan sonra Apache ve MySQL'i başlatıyoruz.</li>
   <li>Daha sonra tarayıcıda phpMyAdmin sayfasını açıyoruz.</li>
   <li>phpMyAdmin sayfasında yeni bir 'carrental' adında veritabanı oluşturuyoruz ve sql uzantılı dosyanın içeriğini kopyalayıp bu veritabanına sql sorgusu olarak gönderiyoruz.</li>
-  <li>Daha sonra XAMPP dosya klasöründe htdocs klasörüne php adında yeni bir dosya oluşturuyoruz ve github reposundaki bütün dosyaları bu klasöre taşıyoruz</li>
+  <li>Daha sonra github reposundaki php klasörünü XAMPP dosya klasöründe htdocs klasörüne taşıyoruz</li>
   <li>Son olarak tarayıcınızda bu dizine giderek anasayfaya ulaşabilirsiniz.</li>
 
 </ul>
