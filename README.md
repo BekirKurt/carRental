@@ -1,7 +1,7 @@
 # carRental
 Oto kiralama sistemi konusu üzerinde PHP, MySQL, HTML, BootStrap kullanılarak geliştirilen bir web tabanlı uygulamadır.
 
-Siteyi incelemek için <a href='http://pacific11.6te.net/php/index.html' target='_blank'>Tıklayınız</a>
+//Siteyi incelemek için <a href='http://pacific11.6te.net/php/index.html' target='_blank'>Tıklayınız</a>
 
 <h3>Özellikler</h3><hr />
 Uygulamada başlıca;
